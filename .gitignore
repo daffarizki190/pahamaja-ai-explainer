@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Agent/AI tools data
+.nexus/
+.gemini/
+
+# Dokumen hasil generate (PPTX, DOCX) diabaikan dari repo GitHub
+*.docx
+*.pptx
+# *.csv
