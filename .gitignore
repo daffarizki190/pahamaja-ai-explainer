@@ -24,4 +24,8 @@ venv.bak/
 # Dokumen hasil generate (PPTX, DOCX) diabaikan dari repo GitHub
 *.docx
 *.pptx
+buat_word.py
+buat_pptx.py
+
+# *.csv
 # *.csv
