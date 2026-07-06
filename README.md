@@ -73,8 +73,6 @@ Aplikasi akan terbuka secara otomatis di browser pada `http://localhost:8501`.
 ```text
 ├── app.py                            # Kode utama aplikasi Streamlit (UI, ML, LLM)
 ├── dataset_evaluasi_personel.csv     # Dataset sintetis yang di-generate otomatis
-├── buat_word.py                      # Skrip generator Laporan UAS (PDF/Word)
-├── buat_pptx.py                      # Skrip generator Slide Presentasi
 ├── requirements.txt                  # Daftar pustaka Python
 └── architecture_diagram.png          # Diagram arsitektur sistem
 ```
